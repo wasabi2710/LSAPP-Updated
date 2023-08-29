@@ -1,0 +1,15 @@
+// Fonts
+@import url('https://fonts.bunny.net/css?family=Nunito');
+@import 'node_modules/bootstrap-icons/font/bootstrap-icons.scss';
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+
+.container {
+    h1 {
+        color: $body-textcolor;
+    }
+}
